@@ -226,6 +226,16 @@ footer {
     opacity: 0.99;
 }
 
+footer h3 {
+    color: var(--amarillo);
+    text-align: center;
+    margin-top: 0;
+}
+
+.ultimo {
+    padding-bottom: 150px;
+}
+
 .whatsapp {
     display: flex;
     flex-direction: row;
@@ -247,12 +257,6 @@ footer {
 .whatsapp a:hover {
     color: rgb(0, 255, 4);
 }
-
-footer h3 {
-    color: var(--amarillo);
-    text-align: center;
-    margin-top: 0;
-    }
 
 .light {
     font-weight: 300;
