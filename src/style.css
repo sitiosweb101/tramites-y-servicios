@@ -32,8 +32,8 @@ a:hover {
 
 /* inicia header */
 header {
-    position: sticky;
-    top: 0;
+    /*position: sticky;*/
+    /*top: 0; /hacer sticky el header*/
     display: flex;
     flex-direction: column;
 }
@@ -223,7 +223,7 @@ footer {
     place-items: center;
     margin-top: auto;
     background-color: var(--negro1);
-    opacity: 0.99;
+    opacity: 0.98;
 }
 
 footer h3 {
