@@ -153,6 +153,9 @@ section {
     .wrapper {
     width: 90vw;
 }
+    .header-mobil {
+        font-size: 2.5vw;
+}
     
 }
 
